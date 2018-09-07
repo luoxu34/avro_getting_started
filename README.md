@@ -2,13 +2,13 @@
 
 ## 安装python包
 
-'''
+```
 # for python2
 pip install avro
 
 # for python3
 pip install avro-python3
-'''
+```
 
 ## demo1：Official getting started
 
